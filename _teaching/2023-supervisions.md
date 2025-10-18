@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Warwick"
-date: 2023-2024
+date: 2023
 location: "Coventry, UK"
 ---
 
