@@ -16,6 +16,10 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    {% unless page.hide_title %}
+    <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+
     {{ content }}
     
     {% comment %}
