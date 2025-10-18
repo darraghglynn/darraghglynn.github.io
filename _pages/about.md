@@ -7,7 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the University of Warwick interested in **algebraic geometry**, **complex dynamics** and **topology**, and in particular Hurwitz spaces, Thurston maps and tropical geometry. My supervisor is [Rohini Ramadas](https://sites.google.com/view/rohini-ramadas/home?authuser=1). I am an organiser for the [Dynamics and Group Geometry Early Researchers (DAGGER)](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger/) seminar at Warwick.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p>
+      I am a fourth-year PhD student at the University of Warwick interested in **algebraic geometry**, **complex dynamics** and **topology**, and in particular Hurwitz spaces, Thurston maps and tropical geometry. My supervisor is [Rohini Ramadas](https://sites.google.com/view/rohini-ramadas/home?authuser=1). I am an organiser for the [Dynamics and Group Geometry Early Researchers (DAGGER)](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger/) seminar at Warwick.
+    </p>
+  </div>
+  <div style="flex: 0 0 200px;">
+    <img src="/images/decorated_tree_example.png" alt="Decorated tree example" width="200">
+  </div>
+</div>
 
 ## Research
 1. [Boundary stratifications of Hurwitz spaces](https://arxiv.org/abs/2503.05688), submitted.
