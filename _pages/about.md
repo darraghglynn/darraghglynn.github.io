@@ -7,20 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px; text-align:justify;" markdown="1">
-    
-I am a fourth-year PhD student at the University of Warwick interested in **algebraic geometry**, **complex dynamics** and **topology**, and in particular Hurwitz spaces, Thurston maps and tropical geometry. My supervisor is [Rohini Ramadas](https://sites.google.com/view/rohini-ramadas/home?authuser=1). I am an organiser for the [Dynamics and Group Geometry Early Researchers (DAGGER)](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger/) seminar at Warwick.
-    
-  </div>
-  <div style="flex: 0 0 300px;">
-    <img src="/images/decorated_tree_example.png" alt="Decorated tree example" width="300">
-  </div>
-</div>
+I am a fourth-year PhD student at the University of Warwick interested in **algebraic geometry**, **complex dynamics** and **topology**, and in particular Hurwitz spaces, Thurston maps and tropical geometry. My supervisor is [Rohini Ramadas](https://sites.google.com/view/rohini-ramadas/home?authuser=1). I am an organiser for the [Dynamics and Group Geometry Early Researchers (DAGGER)](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger/) seminar at Warwick.    
 
 ## Research
 1. [Boundary stratifications of Hurwitz spaces](https://arxiv.org/abs/2503.05688), submitted.
-
 
 ## Invited Talks
 - 28th Nov 2025, [Geometry Seminar](https://www.thibaultpoiret.com/st-andrews-geometry-seminar), University of St Andrews
@@ -44,4 +34,3 @@ I am a fourth-year PhD student at the University of Warwick interested in **alge
 - Nov 2025, [Combinatorial Algebraic Geometry Seminar](https://sites.google.com/view/tropical-geometric-comb/home/?authuser=1), Queen Mary University of London
 - Aug 2025, [Transcendental Thurston Theory workshop](https://sites.google.com/view/ttt-2025/talk-schedule?authuser=1), University of Manchester
 - Jul 2025, [Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute?authuser=1), Colorado State University
-
