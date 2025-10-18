@@ -18,8 +18,6 @@ url                      : https://darraghglynn.github.io # The base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "darraghglynn/darraghglynn.github.io"
 
-minimal_mistakes_skin    : default
-enable_color_scheme_toggle: false
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
