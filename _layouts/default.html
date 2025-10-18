@@ -16,11 +16,7 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    {% if page.hide_title %}
-      {{ content | remove_first: "<h1 class=\"page__title\">#{page.title}</h1>" }}
-    {% else %}
-      {{ content }}
-    {% endif %}
+    {{ content }}
     
     {% comment %}
     <div class="page__footer">
