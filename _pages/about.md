@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;" markdown="1">
+  <div style="flex: 1; padding-right: 20px; text-align:justify;" markdown="1">
     
 I am a fourth-year PhD student at the University of Warwick interested in **algebraic geometry**, **complex dynamics** and **topology**, and in particular Hurwitz spaces, Thurston maps and tropical geometry. My supervisor is [Rohini Ramadas](https://sites.google.com/view/rohini-ramadas/home?authuser=1). I am an organiser for the [Dynamics and Group Geometry Early Researchers (DAGGER)](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger/) seminar at Warwick.
     
