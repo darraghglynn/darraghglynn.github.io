@@ -2,7 +2,7 @@
 
 Darragh Glynn:
   name        : "Darragh Glynn"
-  uri         : #"http://name.com"
+  url         : "https://darraghglynn.github.io"
   email       : "darragh.glynn@warwick.ac.uk"
   bio         : #"This is the first name."
   avatar      : #"bio-photo-2.jpg"
