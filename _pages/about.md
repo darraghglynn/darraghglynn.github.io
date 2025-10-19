@@ -1,14 +1,16 @@
 ---
 permalink: /
 title: Home
-hide_title: true
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a fourth-year PhD student at the University of Warwick interested in **algebraic geometry**, **complex dynamics** and **topology**, and in particular Hurwitz spaces, Thurston maps and tropical geometry. My supervisor is [Rohini Ramadas](https://sites.google.com/view/rohini-ramadas/home?authuser=1). I am an organiser for the [Dynamics and Group Geometry Early Researchers (DAGGER)](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger/) seminar at Warwick.    
+I am a final-year PhD student at the University of Warwick interested in **algebraic geometry**, **complex dynamics** and **topology**, and in particular Hurwitz spaces, Thurston maps and tropical geometry. My supervisor is [Rohini Ramadas](https://sites.google.com/view/rohini-ramadas/home?authuser=1). I am an organiser for the [Dynamics and Group Geometry Early Researchers (DAGGER)](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger/) seminar at Warwick.     
+
+## Background
+I did my undergraduate degree at Trinity College Dublin from 2017-21, with a year abroad at UCLA, and afterwards studied on the Part III Master's programme at the University of Cambridge. Here's my [CV](files/Darragh Glynn CV.pdf).
 
 ## Research
 1. [Boundary stratifications of Hurwitz spaces](https://arxiv.org/abs/2503.05688), submitted.
