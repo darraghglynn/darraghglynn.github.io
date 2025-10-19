@@ -35,3 +35,8 @@ I am a fourth-year PhD student at the University of Warwick interested in **alge
 - Nov 2025, [Combinatorial Algebraic Geometry Seminar](https://sites.google.com/view/tropical-geometric-comb/home/?authuser=1), Queen Mary University of London
 - Aug 2025, [Transcendental Thurston Theory workshop](https://sites.google.com/view/ttt-2025/talk-schedule?authuser=1), University of Manchester
 - Jul 2025, [Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute?authuser=1), Colorado State University
+
+# Teaching
+- 2024-25: [First-year undergraduate supervisor](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/general-information/supervision/)
+- Summer 2024: Mentor for the [Summer Research Programme for Undergraduates from Underrepresented Groups](https://sites.google.com/view/warwicksummermathresearch/home?authuser=1)
+- 2023-24: [First-year undergraduate supervisor](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/general-information/supervision/)
