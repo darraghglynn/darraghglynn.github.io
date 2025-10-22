@@ -16,6 +16,7 @@ I did my undergraduate degree at Trinity College Dublin from 2017-21, with a yea
 1. [Boundary stratifications of Hurwitz spaces](https://arxiv.org/abs/2503.05688), submitted.
 
 ## Invited Talks
+- May 2026, [Algebraic Geometry Seminar](https://www.dm-seminarialggeo.unito.it/eventi?page=1), University of Turin
 - 23rd Jan 2026, [Junior Geometry Seminar](https://talks.cam.ac.uk/show/index/48314), University of Cambridge
 - 28th Nov 2025, [Geometry Seminar](https://www.thibaultpoiret.com/st-andrews-geometry-seminar), University of St Andrews
 - 18th Nov 2025, [Combinatorial Algebraic Geometry Seminar](https://sites.google.com/view/tropical-geometric-comb/home/?authuser=1), Queen Mary University of London
@@ -35,6 +36,7 @@ I did my undergraduate degree at Trinity College Dublin from 2017-21, with a yea
 - 19th Jun 2023, [Topics in Complex Dynamics](https://www.gsd.uab.cat/tcd2023/), Universitat de Barcelona
 
 ## Upcoming and Recent Travel
+- May 2026, [Algebraic Geometry Seminar](https://www.dm-seminarialggeo.unito.it/eventi?page=1), University of Turin
 - Jan 2026, [Junior Geometry Seminar](https://talks.cam.ac.uk/show/index/48314), University of Cambridge
 - Nov 2025, [Geometry Seminar](https://www.thibaultpoiret.com/st-andrews-geometry-seminar), University of St Andrews
 - Nov 2025, [Combinatorial Algebraic Geometry Seminar](https://sites.google.com/view/tropical-geometric-comb/home/?authuser=1), Queen Mary University of London
