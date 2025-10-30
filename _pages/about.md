@@ -27,7 +27,6 @@ I did my undergraduate degree at Trinity College Dublin from 2017-21, with a yea
 - 14th Jun 2024, [Junior Geometry Seminar](https://talks.cam.ac.uk/show/index/48314), University of Cambridge
 
 ## Contributed Talks
-- 12th Mar 2026, [Mathematics Society](https://warwickmathssociety.com/), University of Warwick
 - 28th Aug 2025, [Transcendental Thurston Theory Workshop](https://sites.google.com/view/ttt-2025/talk-schedule?authuser=1), University of Manchester
 - 20th Jun 2025, [GAeL XXXII](https://sites.google.com/view/gaelxxxii/home?authuser=1), IMT Toulouse
 - 3rd Jun 2025, [Topics in Complex Dynamics](https://www.ub.edu/dynsys/tcd2025/), Universitat de Barcelona
